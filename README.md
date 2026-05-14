@@ -1,30 +1,63 @@
-# Power-bi-sales-dashboard
-Interactive Power BI Dashboard for sales data
-# Power BI Sales Dashboard
+# Retail Sales & Profit Insights Dashboard
+
+Interactive Power BI dashboard designed to analyze retail sales performance, regional trends, category-wise insights, and key business KPIs.
+
+---
+
+## Dashboard Preview
+
+![Dashboard Preview](retail_dashboard_preview.png)
+
+---
 
 ## Project Overview
 
-This project focuses on analyzing sales performance using Power BI dashboards and business intelligence techniques.
+This project focuses on analyzing retail sales data using Power BI to identify regional trends, category performance, monthly sales patterns, and key business KPIs through interactive visualizations.
 
-## Tools Used
+---
 
-* Power BI
-* Excel
-* SQL
+## Tools & Technologies Used
+
+- Power BI
+- DAX
+- Data Visualization
+- Kaggle Dataset
+
+---
 
 ## Key Insights
 
-* Monthly sales trends
-* Regional performance analysis
-* Top-performing products
-* KPI tracking
+- West region generated the highest sales performance.
+- Technology category achieved the highest revenue contribution.
+- Sales trends showed significant growth toward year-end.
+- Interactive filters improved data exploration and analysis.
+
+---
 
 ## Features
 
-* Interactive dashboard
-* Slicers and filters
-* Business performance visualization
+- Interactive KPI cards
+- Dynamic slicers and filters
+- Monthly sales trend analysis
+- Regional sales comparison
+- Category-wise sales visualization
+- Clean and professional dashboard design
 
-## Outcome
+---
 
-The dashboard helps in understanding sales growth, customer trends, and business performance through visual analytics.
+## Business Outcome
+
+The dashboard helps businesses monitor sales performance, identify high-performing regions and categories, and support data-driven decision-making using visual analytics.
+
+---
+
+## Skills Demonstrated
+
+## Skills Demonstrated
+
+- Dashboard Design
+- KPI Visualization
+- Data Analysis
+- Interactive Reporting
+- Data Storytelling
+- Power BI Visualization
