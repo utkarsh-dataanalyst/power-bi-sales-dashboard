@@ -53,8 +53,6 @@ The dashboard helps businesses monitor sales performance, identify high-performi
 
 ## Skills Demonstrated
 
-## Skills Demonstrated
-
 - Dashboard Design
 - KPI Visualization
 - Data Analysis
